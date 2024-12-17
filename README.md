@@ -10,7 +10,7 @@ I am 17 on the list of the group, so I have the next task:
   - AI x AI
 
 # Technologies used in the project #
-* Programming language: C++
-* SW: QT Framework
-* HW: Arduino UNO (can change)
-* Testing Framework: QT
+* Programming language: C++, Python
+* SW: Python
+* HW: com0com
+* Testing Framework: Python
